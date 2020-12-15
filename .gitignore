@@ -2,6 +2,7 @@
 node_modules
 /dist
 prettierrc.js
+settings.py
 
 # local env files
 .env.local
